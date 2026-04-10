@@ -15,15 +15,14 @@ Passionate about building scalable ML systems and solving real-world problems
 
 ```python
 aditya = {
-  "role": "Machine Learning Engineer",
-  "experience": "2+ years",
-  "languages": ["Python", "SQL", "C++"],
-  "ml_stack": ["Scikit-learn", "Pandas", "NumPy"],
+  "Pronouns": "He | Him",
+  "Code": ["Python", "SQL", "C++"],
+  "ml_stack": ["Scikit-learn", "Pandas", "NumPy", "TenserFlow/Keras", "Pytorch", "NVIDIA TensorRT"],
+  "Tools": ["Git", "Docker", "Postman", "Flask", "FastAPI", "Linux"],
   "goal": "Build scalable and impactful ML systems"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-<em><b>Open to collaboration and learning opportunities.</b> Feel free to connect!</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Open to collaboration and learning opportunities.</b> Feel free to connect!</em>
 
 ---
