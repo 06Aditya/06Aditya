@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there 👋, I'm Aditya Pathak  
 
-<!--
-**06Aditya/06Aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Machine Learning Engineer with 2+ years of experience  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔭 Currently working as a **Machine Learning Engineer at Helious Tech Solutions Pvt. Ltd.**  
+- 🌱 Learning and exploring **Advanced Machine Learning & System Design**  
+- 💡 Interested in **ML, Data Science, and Problem Solving (DSA)**  
+- 🧠 Strong in **Python, ML algorithms, and backend logic building**  
+- 🎯 Goal: To build scalable and impactful ML systems  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+- Python  
+- SQL  
+
+### 🤖 Machine Learning  
+- Scikit-learn  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+
+### ⚙️ Tools & Technologies  
+- Git & GitHub  
+- Jupyter Notebook  
+- VS Code  
+
+---
+
+## 📊 GitHub Stats  
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=06Aditya&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=06Aditya&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 What I’m Working On  
+- Improving ML fundamentals and real-world applications  
+- Solving DSA problems regularly  
+- Building projects that combine ML + Backend  
+
+---
+
+## 🤝 Let's Connect  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/aditya-pathak-91b1523b8/  
+- 📫 Email: (your email here)
+
+---
+
+## ⚡ Fun Fact  
+I enjoy solving complex problems and turning ideas into real-world applications 🚀
