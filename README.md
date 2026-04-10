@@ -1,34 +1,37 @@
-# Hi, I'm Aditya Pathak
+<h2> Hi, I'm Aditya Pathak! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-Machine Learning Engineer with 2+ years of experience, focused on building practical and scalable ML solutions.
-Based in India.
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
----
+<p><em>
+Machine Learning Engineer with 2+ years of experience <br>
+Passionate about building scalable ML systems and solving real-world problems
+</em></p>
 
-## About Me
-
-* Currently working as a **Machine Learning Engineer at Helious Tech Solutions Pvt. Ltd.**
-* Exploring **advanced machine learning concepts and system design**
-* Interested in **machine learning, data science, and problem solving (DSA)**
-* Strong foundation in **Python, machine learning algorithms, and backend development**
-* Focused on building **efficient and production-ready systems**
+[![Linkedin: aditya](https://img.shields.io/badge/-aditxya-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/aditxya/)](https://www.linkedin.com/in/aditxya/)
+[![GitHub Aditya](https://img.shields.io/github/followers/06Aditya?label=follow\&style=social)](https://github.com/06Aditya)
 
 ---
 
-## Current Focus
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-* Strengthening core machine learning fundamentals
-* Solving data structures and algorithms problems regularly
-* Developing projects that integrate **machine learning with backend systems**
+```python
+aditya = {
+  "role": "Machine Learning Engineer",
+  "experience": "2+ years",
+  "languages": ["Python", "SQL"],
+  "ml_stack": ["Scikit-learn", "Pandas", "NumPy"],
+  "tools": ["Git", "Jupyter Notebook", "VS Code"],
+  "interests": ["Machine Learning", "Data Science", "Backend Development", "DSA"],
+  "current_focus": [
+      "Advanced Machine Learning",
+      "System Design",
+      "Building ML + Backend projects"
+  ],
+  "goal": "Build scalable and impactful ML systems"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<em><b>Open to collaboration and learning opportunities.</b> Feel free to connect!</em>
 
 ---
-
-## Contact
-
-* LinkedIn: https://www.linkedin.com/in/aditxya/
-
----
-
-## Additional
-
-I enjoy working on challenging problems and translating ideas into real-world applications.
