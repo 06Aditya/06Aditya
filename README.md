@@ -1,58 +1,34 @@
-# Hi there 👋, I'm Aditya Pathak  
+# Hi, I'm Aditya Pathak
 
-💻 Machine Learning Engineer with 2+ years of experience  
-📍 India  
-
----
-
-## 🚀 About Me  
-- 🔭 Currently working as a **Machine Learning Engineer at Helious Tech Solutions Pvt. Ltd.**  
-- 🌱 Learning and exploring **Advanced Machine Learning & System Design**  
-- 💡 Interested in **ML, Data Science, and Problem Solving (DSA)**  
-- 🧠 Strong in **Python, ML algorithms, and backend logic building**  
-- 🎯 Goal: To build scalable and impactful ML systems  
+Machine Learning Engineer with 2+ years of experience, focused on building practical and scalable ML solutions.
+Based in India.
 
 ---
 
-## 🛠️ Tech Stack  
+## About Me
 
-### 💻 Languages  
-- Python  
-- SQL  
-
-### 🤖 Machine Learning  
-- Scikit-learn  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-
-### ⚙️ Tools & Technologies  
-- Git & GitHub  
-- Jupyter Notebook  
-- VS Code  
+* Currently working as a **Machine Learning Engineer at Helious Tech Solutions Pvt. Ltd.**
+* Exploring **advanced machine learning concepts and system design**
+* Interested in **machine learning, data science, and problem solving (DSA)**
+* Strong foundation in **Python, machine learning algorithms, and backend development**
+* Focused on building **efficient and production-ready systems**
 
 ---
 
-## 📊 GitHub Stats  
+## Current Focus
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=06Aditya&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=06Aditya&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 What I’m Working On  
-- Improving ML fundamentals and real-world applications  
-- Solving DSA problems regularly  
-- Building projects that combine ML + Backend  
+* Strengthening core machine learning fundamentals
+* Solving data structures and algorithms problems regularly
+* Developing projects that integrate **machine learning with backend systems**
 
 ---
 
-## 🤝 Let's Connect  
+## Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/aditya-pathak-91b1523b8/  
-- 📫 Email: (your email here)
+* LinkedIn: https://www.linkedin.com/in/aditxya/
 
 ---
 
-## ⚡ Fun Fact  
-I enjoy solving complex problems and turning ideas into real-world applications 🚀
+## Additional
+
+I enjoy working on challenging problems and translating ideas into real-world applications.
