@@ -1,6 +1,6 @@
 <h2> Hi, I'm Aditya Pathak! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align="right" src="assets/git3.gif" width="280">
+<img align="right" src="assets/git3.gif" width="305">
 
 <p><em>
 Machine Learning Engineer with 2+ years of experience <br>
@@ -17,15 +17,8 @@ Passionate about building scalable ML systems and solving real-world problems
 aditya = {
   "role": "Machine Learning Engineer",
   "experience": "2+ years",
-  "languages": ["Python", "SQL"],
+  "languages": ["Python", "SQL", "C++"],
   "ml_stack": ["Scikit-learn", "Pandas", "NumPy"],
-  "tools": ["Git", "Jupyter Notebook", "VS Code"],
-  "interests": ["Machine Learning", "Data Science", "Backend Development", "DSA"],
-  "current_focus": [
-      "Advanced Machine Learning",
-      "System Design",
-      "Building ML + Backend projects"
-  ],
   "goal": "Build scalable and impactful ML systems"
 }
 ```
