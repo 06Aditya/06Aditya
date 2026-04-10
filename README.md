@@ -1,6 +1,6 @@
 <h2> Hi, I'm Aditya Pathak! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align="right" src="assets/git3.gif" width="305">
+<img align="right" src="assets/git3.gif" width="300">
 
 <p><em>
 Machine Learning Engineer with 2+ years of experience <br>
